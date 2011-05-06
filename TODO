@@ -1,0 +1,7 @@
+Currently there are warnings during the build process:
+* Error: package 'ggplot2' could not be loaded
+* correlation.matrix: no visible binding for global variable ‘value’
+* correlation.matrix: no visible binding for global variable ‘X2’
+* correlation.matrix: no visible binding for global variable ‘X1’
+
+Support other color schemes.
