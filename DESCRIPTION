@@ -1,12 +1,11 @@
 Package: ggplots
 Type: Package
 Title: Higher order plots
-Version: 0.1-1
-Date: 2011-05-06
+Version: 0.1-2
+Date: 2012-05-12
 Author: John Myles White
 Maintainer: John Myles White <jmw@johnmyleswhite.com>
 Description: Higher order plots
 License: Artistic-2.0
 LazyLoad: yes
-Depends: ggplot2, testthat
-
+Depends: ggplot2, testthat, reshape
